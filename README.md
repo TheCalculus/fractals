@@ -8,15 +8,15 @@ A lot of research went into figuring out the PIL library so apologies if there a
  <br><br>
  <kbd>
  Mandelbrot Blue (HSV, Constant of 150-200), Mandelbrot Red (HSV, No Additive constant)<br>
- <img src="https://github.com/JBusterJ/fractals/blob/main/mandelbrot_blue.png?raw=true" width=300>
-<img src="https://github.com/JBusterJ/fractals/blob/main/mandelbrot_red.png?raw=true" width=300> <br>
-<img src="https://github.com/JBusterJ/fractals/blob/main/mandelbrot_lr.png?raw=true" width=300>
-<img src="https://github.com/JBusterJ/fractals/blob/main/mandelbrot_mono.png?raw=true" width=300><br>
+ <img src="https://github.com/TheCalculus/fractals/blob/main/mandelbrot_blue.png?raw=true" width=300>
+<img src="https://github.com/TheCalculus/fractals/blob/main/mandelbrot_red.png?raw=true" width=300> <br>
+<img src="https://github.com/TheCalculus/fractals/blob/main/mandelbrot_lr.png?raw=true" width=300>
+<img src="https://github.com/TheCalculus/fractals/blob/main/mandelbrot_mono.png?raw=true" width=300><br>
  Mandelbrot White-Black(RGB, No Manipulative constant), Mandelbrot Black-White(RGB, 255 - x)<br>
 </kbd>
 
 <h3>Next up, the Julia Set!</h3>
 <img src="https://www.mcgoodwin.net/julia/mcmjul1.gif" width=500>
 <p>Planned to be implemented within the next week or so (date of writing this: 14/03/22)</p>
-<img src="https://github.com/JBusterJ/fractals/blob/main/number_theorems.png?raw=true" width=500> Julia Set (Position) (Deep Zoom), 19/03/22. Although the Julia set doesn't look as it is "supposed" to, but it matches the expected output. 
+<img src="https://github.com/TheCalculus/fractals/blob/main/number_theorems.png?raw=true" width=500> Julia Set (Position) (Deep Zoom), 19/03/22. Although the Julia set doesn't look as it is "supposed" to, but it matches the expected output. 
 <h3>Next up, other Fractals! (nextup2, nu2)</h3>
